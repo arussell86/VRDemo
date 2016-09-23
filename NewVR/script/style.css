@@ -1,0 +1,74 @@
+/* CSS Document */
+
+.container{
+	width:100%;
+}
+body{
+	background-color:#B9B9B9
+}
+h1{
+	font-size:25px;
+    width:100%;
+	text-align:center;
+	text-shadow: 3px 4px #8D8D8D;
+}
+nav{
+	text-align:center;
+	align-content:center;
+	background-color:#8A8A8A;
+	padding:5px 5px 6px 6px;
+	margin: 4px 4px 4px 4px;
+}
+a:link{
+   text-decoration:none;
+   color:#333333;	
+   padding: 3px 7px 4px 3px;
+}
+a:visited{
+   text-decoration:none;
+   color:#333333;	
+   padding: 3px 7px 4px 3px;	
+}
+h3{
+	text-align:center;
+	text-decoration:underline;
+	font-size:24px
+}.container section form {
+	align-content: center;
+	padding-top: 0px;
+	padding-right: 2px;
+	padding-left: 26px;
+	padding-bottom: 69px;
+	margin-top: 35px;
+	margin-right: 4px;
+	margin-left: 9px;
+	margin-bottom: 2px;
+	text-align: center;
+}
+tr td label {
+	margin-top: 11px;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-bottom: 7px;
+	padding-bottom: 1px;
+	padding-top: 3px;
+	padding-left: 0px;
+}
+input[type=text], select {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=password], select {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
