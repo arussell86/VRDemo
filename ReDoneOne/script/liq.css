@@ -1,0 +1,120 @@
+.wrapper {
+  width: 100%;
+}
+h1{
+	text-shadow: 6px 5px #ABABAB;
+
+}
+nav, section {
+  float: left;
+}
+
+nav {
+	width: 20.83333%;
+	margin-right: 0.5%;
+}
+
+section {
+	padding-top: 0px;
+	padding-right: 19px;
+	padding-left: 10px;
+	padding-bottom: 7px;
+	margin: 5px;
+	width: 100%;
+}
+
+
+*, *:before, *:after {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+  background: #D9D4D4;
+  color: #000000;
+  font-family: Helvetica;
+  text-align: center;
+  margin: 0;
+}
+
+header,
+nav,
+section {
+	border-left: 0px solid rgba(255,255,255,0.8);
+	border-right: 0px solid rgba(0,0,0,0.80);
+	border-bottom: 3px solid rgba(22,15,15,0.80);
+	border-top: 0px solid rgba(255,255,255,0.8);
+	margin-bottom: 10px;
+	border-radius: 20px;
+}
+
+header {
+	padding-top: 3px;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 20px;
+	background-color: #ACACAC;
+}
+
+nav, section {
+  padding: 200px 0;
+}
+a:link, a:visited{
+	text-decoration:none;
+	color: #000000;
+}
+.menu{
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 18px;
+  background: #606b73;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  width:200px;	
+}
+.menu:hover{
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 18px;
+  background: #606b73;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;	
+  width:200px;
+}
+h2 {
+	padding-top: 14px;
+	padding-right: 14px;
+	padding-left: 14px;
+	padding-bottom: 14px;
+	margin-top: -172px;
+	margin-right: 290px;
+	margin-left: 1px;
+	margin-bottom: -20px;
+}
+tbody tr td {
+	padding-top: 11px;
+	padding-right: 11px;
+	padding-left: 11px;
+	padding-bottom: 11px;
+	margin-top: 19px;
+	margin-right: 19px;
+	margin-left: 19px;
+	margin-bottom: 19px;
+}
+.wrapper section form {
+	padding-top: 5px;
+	padding-right: 4px;
+	padding-left: 10px;
+	padding-bottom: 0px;
+	margin-top: -2px;
+	margin-right: 139px;
+	margin-left: -2px;
+	margin-bottom: -2px;
+	text-align: center;
+}
